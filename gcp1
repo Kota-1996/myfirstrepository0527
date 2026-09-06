@@ -14,11 +14,6 @@ p.large {
 </head>
 <body>
 
-<h1 class="center">This heading will not be affected</h1>
-<p class="center">This paragraph will be red and center-aligned.</p>
-<p class="center large">This paragraph will be red, center-aligned, and in a large font-size.</p> 
 
-</body>
-</html>
-
+ Includes more than 1,000 plugins to connect with tools like Git, Docker, Maven, and Kubernetes.Pipelines: Lets you define build steps as code using a Jenkinsfile.Distributed Builds: Spreads tasks across multiple agent computers to save time.Cross-Platform: Works on Windows, Linux, and macOS. [1] (https://www.geeksforgeeks.org/devops/what-is-jenkins/), [2] (https://www.edureka.co/blog/what-is-jenkins/), [3] (https://www.youtube.com/watch?v=6YZvp2GwT0A&t=230)
 
